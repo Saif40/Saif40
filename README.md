@@ -1,4 +1,5 @@
-# Saif40
+//# Saif40
+//this is a 4 digit 7 Segment clock using arduino 
 #define MIDDLE 0 // G
 #define UPPER_L 1 // F
 #define LOWER_L 2 // E
